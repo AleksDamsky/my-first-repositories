@@ -1,3 +1,20 @@
 body {
     background-color: rgb(20, 97, 238);
 }
+p {
+    color: wheat;
+}
+#fofo {
+    color: bisque;
+    margin: 12px 20px auto 20px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(28, 218, 224);
+}
+#fofyUL {
+    margin-right: 300px;
+    margin-left: 400px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(28, 218, 224);;
+}
